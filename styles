@@ -1,0 +1,48 @@
+body.zach {
+    background-color: #f5f5f5; /* Set the background color */
+    font-family: Arial, sans-serif; /* Set the font family */
+    background-image: url(https://c4.wallpaperflare.com/wallpaper/392/800/22/game-chess-hd-wallpaper-preview.jpg);
+    
+}
+
+
+header {
+    background-color: #333; /* Set the background color */
+    
+    padding: 10px; /* Add some padding */
+    text-align: center; /* Center-align the content */
+}
+
+/* Styles for the title element */
+.chess  {
+    margin: 0; /* Remove default margin */
+    padding: 20px 0; /* Add padding to top and bottom */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
+
+/* Styles for the menu element */
+.menu {
+    
+    text-align: center; /* Center-align the content */
+    padding: 20px; /* Add some padding */
+}
+
+/* Styles for the buttons */
+.buttons  {
+    text-decoration: dashed; /* Remove underlines from links */
+}
+
+.buttons {
+    background-color: #333; /* Set the button background color */
+
+    padding: 10px 20px; /* Add padding to top and bottom */
+    margin: 5px; /* Add margin between buttons */
+    border: none; /* Remove the button border */
+    cursor: pointer; /* Change cursor on hover */
+}
+
+/* Styles for button hover state */
+.buttons button:hover {
+    background-color: #555; /* Change the background color on hover */
+}
