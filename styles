@@ -71,3 +71,58 @@ header {
     font-weight: bold;
     color: #007bff;
 }
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 0;
+}
+
+/* Container Styles */
+.imgdiv {
+    text-align: center;
+    padding: 20px;
+}
+
+.pontsysdiv {
+    background-color: #fff;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Image Styles */
+.imgpawn {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Heading Styles */
+.pontsysh1 {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+/* Paragraph Styles */
+.pointsystem {
+    font-weight: bold;
+}
+
+/* Link Styles */
+.link {
+    color: #007BFF;
+    text-decoration: none;
+}
+
+/* List Styles */
+.list {
+    margin-left: 20px;
+}
+
+.list-item {
+    font-size: 14px;
+    color: #444;
+    margin-bottom: 5px;
+}
